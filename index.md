@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Ahmed Othman
+title: Ahmed Othman | ENGINEERING MANAGER
 cv: https://cv.aothman.de
 email: contact@aothman.de
 twitter: https://twitter.com/amedhat3/
