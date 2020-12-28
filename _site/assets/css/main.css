@@ -271,7 +271,7 @@
 	hr {
 		border: 0;
 		border-bottom: solid 1px #c8cccf;
-		margin: 3em 0;
+		margin: 1em 0;
 	}
 
 /* Form */
@@ -373,6 +373,7 @@
 		padding: 0 1em;
 		text-decoration: none;
 		width: 100%;
+		text-transform: none !important;
 	}
 
 		input[type="text"]:invalid,
