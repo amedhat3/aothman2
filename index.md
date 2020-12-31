@@ -8,4 +8,5 @@ blog: https://blog.aothman.de
 linkedin: https://www.linkedin.com/in/a-othman/
 github: https://github.com/amedhat3/
 ---
-Engineering Manager with 6+ years of Engineering Leadership experience and 12+ years of hands-on Software Development experience. In love with people diversity and helping people grow and develop their skills. My passion is driving high business impact by building cross-functional teams and developing scalable and reliable software systems.
+Hi, I'm Ahmed, most probably you already know other Ahmeds, so I'm also known by Ahmed Medhat or Ahmed Othman, you can pick :-)
+I work as an Engineering Manager at Zalando, I have 6+ years of Engineering Leadership experience and 12+ years of hands-on Software Development experience. In love with people diversity and helping people grow and develop their skills. My passion is driving a high business impact by building cross-functional teams and developing scalable and reliable software systems.
