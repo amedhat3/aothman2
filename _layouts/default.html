@@ -71,7 +71,7 @@
 				"addressCountry": "Germany"
 			},
 			"sameAs": [
-				"https://twitter.com/amedhat3/",
+				"https://twitter.com/_ahmed_othman/",
 				"https://github.com/amedhat3/",
 				"https://www.linkedin.com/in/a-othman/",
 				"https://angel.co/u/amedhat",
@@ -106,12 +106,15 @@
 				<section id="main">
 					<header>
 						<span class="avatar"><img src="{{ site.baseurl }}/images/avatar.jpg" alt="Ahmed Othman's Picture" /></span>
-						<h1>Ahmed Othman</h1>
-						<p>Software Engineering Manager</p>
+						<h1>{{ page.name }}</h1>
+						<p>{{ page.job_title }}</p>
 					</header>
 					
 					<hr />
 					<div class="container">
+						<span style="text-align: center; text-transform: none !important;">
+							{{ page.intro }}
+						</span>
 						<span style="text-align: center; text-transform: none !important;">
 							{{ content }}
 						</span>
