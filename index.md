@@ -7,7 +7,7 @@ twitter: https://twitter.com/_ahmed_othman/
 blog: https://blog.aothman.de
 linkedin: https://www.linkedin.com/in/a-othman/
 github: https://github.com/amedhat3/
-name: Ahmed Othman
+myname: Ahmed Othman
 job_title: Software Engineering Manager
 intro: Hi, I'm Ahmed, most probably you already know other Ahmeds, so I'm also known by Ahmed Medhat or Ahmed Othman, you can pick :-)
 ---
